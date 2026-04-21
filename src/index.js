@@ -9,7 +9,7 @@ let nivel = ["Ferro" , "Bronze" , "Prata" , "Ouro" , "Platina" , "Ascendente" , 
 //////// Código /////////////////
 switch (xp) {
         case "1000":
-            console.log(nivel[0])
+            console.log("O Herói de nome " + nome , "está no nível de " + nivel[0])
             break
 
 }
